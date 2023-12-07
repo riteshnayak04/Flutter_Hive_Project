@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hive_project/Conatants/Boxes/boxes.dart';
+import 'package:flutter_hive_project/Constants/Boxes/boxes.dart';
 import 'package:flutter_hive_project/Models/notes_model.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';

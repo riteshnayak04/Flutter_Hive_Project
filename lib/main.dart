@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_hive_project/Conatants/Themes/theme.dart';
+import 'package:flutter_hive_project/Constants/Themes/theme.dart';
 import 'package:flutter_hive_project/Models/notes_model.dart';
 import 'package:flutter_hive_project/Views/Pages/HomePages/home_page.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';

@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_hive_project/Conatants/Boxes/boxes.dart';
+import 'package:flutter_hive_project/Constants/Boxes/boxes.dart';
 import 'package:flutter_hive_project/Models/notes_model.dart';
 import 'package:flutter_hive_project/Views/Pages/add_note_page.dart';
 import 'package:flutter_hive_project/Views/Pages/HomePages/note_details_page.dart';

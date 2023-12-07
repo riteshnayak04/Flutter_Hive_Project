@@ -1,4 +1,4 @@
-import 'package:flutter_hive_project/Conatants/Boxes/boxes.dart';
+import 'package:flutter_hive_project/Constants/Boxes/boxes.dart';
 import 'package:get/get.dart';
 
 class DeleteController extends GetxController {
