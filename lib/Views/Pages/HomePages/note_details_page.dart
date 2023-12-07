@@ -111,7 +111,7 @@ class NoteDetailsPage extends StatelessWidget {
                     style: TextStyle(color: Colors.white),
                   ),
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.deepPurple[500],
+                    backgroundColor: Colors.deepPurple[600],
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(5.0),
                     ),
